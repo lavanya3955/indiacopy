@@ -7,4 +7,4 @@ Welcome to my project.
 - Login
 - Dashboard
 - Reports
--Payment
+- Payment
